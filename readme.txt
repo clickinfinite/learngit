@@ -2,4 +2,4 @@ hello world!
 hello world!
 hello world!
 hello world!
-git tracks changes.
+git tracks changes of files.
